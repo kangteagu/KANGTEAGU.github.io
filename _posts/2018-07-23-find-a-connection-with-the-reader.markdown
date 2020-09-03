@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Nomadcoder 를 활용한 프로젝트 활동
-date:   2020-09-03 09:03:00 +0300
+date:   2020-06-12 09:03:00 +0300
 image:  02.jpg
 tags:   Nomadcoders
 ---

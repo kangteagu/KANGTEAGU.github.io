@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  동의대학교 청년 TLO 취업 연계 활동
-date:   2020-09-03 09:03:00 +0300
+date:   2020-08-01 09:03:00 +0300
 image:  03.jpg
 tags:   Dong-Eui University
 ---
